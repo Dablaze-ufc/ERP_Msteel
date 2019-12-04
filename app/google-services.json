@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "488924149508",
+    "firebase_url": "https://erp-msteel.firebaseio.com",
+    "project_id": "erp-msteel",
+    "storage_bucket": "erp-msteel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488924149508:android:de09d7b881db9e5b",
+        "android_client_info": {
+          "package_name": "example.com.erp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488924149508-a9cefoub4f75dptoec8h7otcnetmqnh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.erp",
+            "certificate_hash": "26f363989035530827d1eef62d1da3dadd046fbc"
+          }
+        },
+        {
+          "client_id": "488924149508-48h6kvg4ics4cm9ailfr7kurmkk11c5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gYX4TphYDjSJnMoRw0jR30lA1ziLft4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488924149508-48h6kvg4ics4cm9ailfr7kurmkk11c5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

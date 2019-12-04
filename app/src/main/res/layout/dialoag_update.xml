@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="40sp"
+    android:background="@color/colorWhite"
+    android:padding="15sp">
+
+    <TextView
+        android:id="@+id/update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upadte is available"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+
+    <RelativeLayout
+        android:id="@+id/versionText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/update"
+        android:layout_margin="15sp">
+
+        <TextView
+            android:id="@+id/version"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Version"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/update_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/versionText"
+        android:layout_alignParentRight="true"
+        android:background="@color/colorWhite"
+        android:text="Update"
+        android:textColor="@color/feint_blue"
+        android:textSize="16sp" />
+
+</RelativeLayout>

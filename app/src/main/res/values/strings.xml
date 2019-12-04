@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MSteel ERP</string>
+    <string name="title_activity_act_home">ActHome</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="notification_channel_id">0</string>
+    <string name="dash">-</string>
+    <string name="todo">todo</string>
+
+    <!--Bottombar tabs-->
+    <string name="tab1">Home</string>
+    <string name="tab2">Transaction</string>
+    <string name="tab3">View Balance</string>
+    <string name="tab4">Orders</string>
+    <string name="tab5">Change PIN</string>
+    <string name="tab6">View Profile</string>
+    <string name="tab7">Edit Profile</string>
+    <string name="default_notification_channel_id">Channel_Id</string>
+    <string name="txt_update_balance">Update Balance</string>
+    <string name="txt_current_balance">Current Balance</string>
+    <string name="txt_copyright">Copyright © Technlogi.com</string>
+    <string name="hint_code">Code</string>
+    <string name="hint_enter_quantity">Enter Quantity in MT</string>
+    <string name="hint_firm_name">* Full Name</string>
+    <string name="txt_firm_name">Full Name</string>
+    <string name="hint_contact_person_name">Contact Person Name</string>
+    <string name="hint_mobile_number">* Mobile Number</string>
+    <string name="hint_street_name">* Address Line One</string>
+    <string name="txt_street_name">Address Line One</string>
+    <string name="hint_street_number">Address Line Two</string>
+    <string name="hint_location">Locality</string>
+    <string name="hint_address">Landmark</string>
+    <string name="hint_city">* City</string>
+    <string name="txt_city">City</string>
+    <string name="hint_register">Register</string>
+    <string name="hint_pin_code">* Pin code</string>
+    <string name="txt_pin_code">Pin code</string>
+    <string name="hint_gst_number">GST Number</string>
+    <string name="hint_update">Update</string>
+    <string name="hint_pin">* PIN</string>
+    <string name="hint_confirm_pin">* Confirm PIN</string>
+    <string name="upTriangle">U+2191</string>
+
+</resources>

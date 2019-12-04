@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">@color/feint_blue_light</color>
+
+    <color name="color_red_dark">#f20616</color>
+    <color name="color_green">#008000</color>
+    <color name="color_ch_dark">#c43942</color>
+    <color name="button_bg">#e92633</color>
+    <color name="shadow">#e2d5d6</color>
+    <color name="black">#3d3c3c</color>
+    <color name="gray">#C2B9B9</color>
+
+    <color name="feint_blue">#1da8f9</color>
+    <color name="fair_blue">#681da8f9</color>
+    <color name="fair_blue_text">#901da8f9</color>
+    <color name="feint_blue_light">#8f1da8f9</color>
+    <color name="background">#ffffff</color>
+    <color name="feint_background">#f5ebeb</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorText">#5f5e5e</color>
+    <color name="itemBackground">#F8F8F8</color>
+    <color name="itemBackground_two">#FCFAFA</color>
+    <color name="blueDark">#0091ea</color>
+    <color name="deatails">#61eae8</color>
+    <color name="deatailsTab">#ec8d09</color>
+    <color name="yellow">#FFFF00</color>
+
+    <color name="statusPending">#D7BB04</color>
+    <color name="statusApprove">#FF8C00</color>
+    <color name="statusNotApprove">#e92633</color>
+    <color name="statusShipping">#1da8f9</color>
+    <color name="statusShipped">#9400D3</color>
+    <color name="statusDelivered">#FFC0CB</color>
+    <color name="statusCompleted">#008000</color>
+    <color name="statusBilled">#575757</color>
+
+    <color name="trendingDown">#e92633</color>
+    <color name="trendingUp">#008000</color>
+</resources>

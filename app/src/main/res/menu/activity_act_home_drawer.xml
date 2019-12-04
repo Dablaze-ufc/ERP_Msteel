@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/tab1" />
+
+        <item
+            android:id="@+id/nav_view_profile"
+            android:icon="@drawable/ic_user_avatar"
+            android:title="@string/tab6"
+            android:visible="false" />
+
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_orders"
+            android:title="@string/tab4" />
+
+        <item
+            android:id="@+id/nav_challan"
+            android:icon="@drawable/ic_transactions"
+            android:title="My Bills" />
+
+        <item
+            android:id="@+id/nav_transactions"
+            android:icon="@drawable/ic_transactions"
+            android:title="@string/tab2" />
+
+        <item
+            android:id="@+id/nav_change_pin"
+            android:icon="@drawable/ic_key"
+            android:title="@string/tab5" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+
+        <item
+            android:id="@+id/nav_pow"
+            android:title="Copyright: Technlogi.com"
+            android:visible="false" />
+
+        <item
+            android:id="@+id/nav_contact"
+            android:title="Contact Us"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_contact_app_support"
+            android:title="7000518300 (App Support)"
+            android:visible="false" />
+
+        <item
+            android:id="@+id/nav_contact_tech_support"
+            android:title="9425327566 (Tech Support)"
+            android:visible="false" />
+        <item
+            android:id="@+id/footer_spacer_1"
+            android:checkable="false"
+            android:enabled="false"
+            android:orderInCategory="200"
+            android:title="" />
+
+    </group>
+
+
+</menu>
